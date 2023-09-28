@@ -7,10 +7,6 @@
     "start": "node src/index.js"
   },
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Hypertabs"
-  },
   "keywords": [""],
   "author": "",
   "license": "GPL-3.0-or-later",
